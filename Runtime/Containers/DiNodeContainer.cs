@@ -1,5 +1,5 @@
 using System;
-using CoreSDK.Extensions;
+using ExExtensions.Runtime;
 using UnityEngine;
 
 namespace ExDi.Runtime.Containers

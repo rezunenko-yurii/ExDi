@@ -2,5 +2,8 @@
   "name": "com.exhale.exdi",
   "version": "1.0.1",
   "displayName": "ExDi",
-  "unity": "2022.2"
+  "unity": "2022.2",
+  "dependencies": {
+    "com.exhale.ex-extensions": "1.0.0"
+  }
 }

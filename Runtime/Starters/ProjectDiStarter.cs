@@ -1,8 +1,8 @@
 using System;
-using CoreSDK.Extensions;
 using ExDi.Runtime.Containers;
 using ExDi.Runtime.Inject.Attributes;
 using ExDi.Runtime.Installers;
+using ExExtensions.Runtime;
 using UnityEngine;
 using Object = UnityEngine.Object;
 
